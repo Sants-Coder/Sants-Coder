@@ -1,4 +1,4 @@
-## Olá! 👋 Eu sou o Henrique Aguiar
+## Hi! 👋 I`m Henrique Aguiar
 
 I am a Front-End developer passionate about creating modern and interactive interfaces. I am currently pursuing a postgraduate degree in **Front-End Engineering** at FIAP.
 
