@@ -1,9 +1,35 @@
-## Hi! 👋 I`m Henrique Aguiar
+### Hi there! I'm Henrique Aguiar dos Santos 👋
 
-I am a Front-End developer passionate about creating modern and interactive interfaces. I am currently pursuing a postgraduate degree in **Front-End Engineering** at FIAP.
+I'm a passionate **Front-End Developer** currently diving deep into web development! I'm constantly improving my skills and building awesome projects with modern web technologies. 💻✨
 
-### 🛠️ Technologies I use:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+---
+
+### 🚀 Technologies & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuGitHubUsername&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuGitHubUsername&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/henrique-aguiar-269b89233)
+- 📷 [Instagram](https://www.instagram.com/santscoder/)
+- 📺 [YouTube](https://www.youtube.com/@R4ZURANDU)
+- 📧 Email: ha701430@gmail.com
+
+Let's build something great together! 🚀🔥
