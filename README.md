@@ -16,15 +16,6 @@ I'm a passionate **Front-End Developer** currently diving deep into web developm
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuGitHubUsername&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuGitHubUsername&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/henrique-aguiar-269b89233)
