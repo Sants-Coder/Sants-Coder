@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=26&pause=1000&color=00ADEF&center=true&vCenter=true&width=500&lines=Olá%2C+me+chamo+Henrique+Aguiar!;Sou+Desenvolvedor+Front-End+%F0%9F%9A%80" alt="Typing SVG" />
@@ -17,7 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
 </p>
 
@@ -37,7 +35,7 @@
 #### 💼 Portfólio Pessoal
 <p align="center">
   <a href="https://github.com/Sants-Coder/portifolio-henrique">
-    <img src="./portfolio.jpg" width="300" alt="Portfólio Henrique"/>
+    <img src="./portfolio.JPG" width="300" alt="Portfólio Henrique"/>
   </a><br>
   <strong>Meu Portfólio Pessoal</strong><br>
   HTML | CSS | JavaScript
