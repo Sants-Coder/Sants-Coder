@@ -1,37 +1,69 @@
-<h1 align="center">👋 Olá! Eu sou o Henrique Aguiar dos Santos</h1>
+<div align="center">
 
-<p align="center">🚀 Desenvolvedor Front-End focado em criar interfaces modernas e experiências web marcantes.</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00ADEF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Henrique+Aguiar!;Sou+Desenvolvedor+Front-End+%F0%9F%9A%80" alt="Typing SVG" />
 
----
+<h2>👋 Bem-vindo ao meu GitHub!</h2>
 
-### 💡 Sobre Mim
-
-Atualmente, estou me aprofundando em **React.js**, **TailwindCSS** e **Node.js**, criando projetos do zero com foco em performance, responsividade e estética.
-
-Gosto de explorar ideias criativas, aplicar boas práticas de código e aprender continuamente. Meu objetivo é evoluir como desenvolvedor e construir soluções reais que impactem positivamente as pessoas.
+<p>Sou um <strong>Desenvolvedor Front-End</strong> focado em criar interfaces modernas e experiências web marcantes. <br>Tenho paixão por tecnologia, design e tudo que envolve criar projetos interativos com código!</p>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas que Utilizo
+### 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
 </p>
 
 ---
 
-### 📲 Onde me Encontrar
+### 🌟 Projetos em Destaque
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/henrique-aguiar-269b89233)
-- 📷 [Instagram](https://www.instagram.com/santscoder/)
-- ✉️ Email: ha701430@gmail.com
+#### 🧱 Site Tributo ao 2Pac
+<p align="center">
+  <a href="https://github.com/Sants-Coder/2pac-tribute-website">
+    <img src="./tributo-tupac.png" width="300" alt="2Pac Tributo"/>
+  </a><br>
+  <strong>Site Tributo ao 2Pac</strong><br>
+  HTML | CSS | JavaScript
+</p>
+
+#### 💼 Portfólio Pessoal
+<p align="center">
+  <a href="https://github.com/Sants-Coder/portifolio-henrique">
+    <img src="./portfolio.jpg" width="300" alt="Portfólio Henrique"/>
+  </a><br>
+  <strong>Meu Portfólio Pessoal</strong><br>
+  HTML | CSS | JavaScript
+</p>
+
+#### 💳 Sistema de Serviços Bancários
+<p align="center">
+  <a href="https://github.com/Sants-Coder/dashboard-bancario-pos">
+    <img src="./desktop-servicos.png" width="300" alt="Sistema de Serviços Bancários"/>
+  </a><br>
+  <strong>Dashboard com Serviços Bancários</strong><br>
+  ReactJS | TailwindCSS | NodeJS
+</p>
 
 ---
 
-<p align="center"><strong>Vamos construir algo incrível juntos? 🚀🔥</strong></p>
+### 📫 Contato
 
+<p align="center">
+  <a href="mailto:ha701430@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/henrique-aguiar-269b89233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/santscoder/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@R4ZURANDU" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+
+✨ Vamos construir algo incrível juntos!
+
+</div>
