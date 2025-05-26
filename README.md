@@ -1,3 +1,5 @@
+<div align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00ADEF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Henrique+Aguiar!;Sou+Desenvolvedor+Front-End+%F0%9F%9A%80" alt="Typing SVG" />
 
 <h2>👋 Bem-vindo ao meu GitHub!</h2>
@@ -14,7 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
 </p>
 
@@ -28,15 +29,6 @@
     <img src="./tributo-tupac.png" width="300" alt="2Pac Tributo"/>
   </a><br>
   <strong>Site Tributo ao 2Pac</strong><br>
-  HTML | CSS | JavaScript
-</p>
-
-#### 💼 Portfólio Pessoal
-<p align="center">
-  <a href="https://github.com/Sants-Coder/portifolio-henrique">
-    <img src="./portfolio.jpg" width="300" alt="Portfólio Henrique"/>
-  </a><br>
-  <strong>Meu Portfólio Pessoal</strong><br>
   HTML | CSS | JavaScript
 </p>
 
