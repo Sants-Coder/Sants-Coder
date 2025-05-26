@@ -32,15 +32,6 @@
   HTML | CSS | JavaScript
 </p>
 
-#### 💼 Portfólio Pessoal
-<p align="center">
-  <a href="https://github.com/Sants-Coder/portifolio-henrique">
-    <img src="./portfolio.JPG" width="300" alt="Portfólio Henrique"/>
-  </a><br>
-  <strong>Meu Portfólio Pessoal</strong><br>
-  HTML | CSS | JavaScript
-</p>
-
 #### 💳 Sistema de Serviços Bancários
 <p align="center">
   <a href="https://github.com/Sants-Coder/dashboard-bancario-pos">
