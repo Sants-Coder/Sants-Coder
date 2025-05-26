@@ -1,4 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&pause=1000&color=00ADEF&center=true&vCenter=true&width=380&lines=Olá%2C+me+chamo+Henrique+Aguiar!;Sou+Desenvolvedor+Front-End+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&pause=1000&color=00ADEF&width=380&lines=Olá%2C+me+chamo+Henrique+Aguiar!;Sou+Desenvolvedor+Front-End+%F0%9F%9A%80" alt="Typing SVG" />
+
 
 <h2>👋 Bem-vindo ao meu GitHub!</h2>
 
