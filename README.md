@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00ADEF&center=true&vCenter=true&width=435&lines=Olá%C3%A1%2C+me+chamo+Henrique+Aguiar!;Sou+Desenvolvedor+Front-End+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00ADEF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Henrique+Aguiar!;Sou+Desenvolvedor+Front-End+%F0%9F%9A%80" alt="Typing SVG" />
 
 <h2>👋 Bem-vindo ao meu GitHub!</h2>
 
