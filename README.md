@@ -23,7 +23,7 @@
 
 ### 🌟 Projetos em Destaque
 
-#### 🧱 Site Tributo ao 2Pac
+####  🎤 Site Tributo ao 2Pac
 <p align="center">
   <a href="https://github.com/Sants-Coder/2pac-tribute-website">
     <img src="./tributo-tupac.png" width="300" alt="2Pac Tributo"/>
