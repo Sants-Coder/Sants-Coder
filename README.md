@@ -35,7 +35,7 @@
 #### 🎮✨ Guia Interativo do Jogo Bully (PS2)
 <p align="center">
   <a href="https://github.com/Sants-Coder/guia-bully">
-    <img src="img/apresentacao/apresentacao1.png" width="300" alt="Guia Bully"/>
+     <img src="https://raw.githubusercontent.com/Sants-Coder/guia-bully/main/img/apresentacao/apresentacao1.png" width="300" alt="Guia Bully"/>
   </a><br>
   <strong>Site do Bully</strong><br>
   <em>HTML | CSS | JavaScript</em>
