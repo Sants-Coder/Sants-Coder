@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h2>👋 Bem-vindo ao meu GitHub!</h2>
+<h2>Bem-vindo ao meu GitHub!</h2>
 
 <p>Sou um <strong>Desenvolvedor Front-End</strong> focado em criar interfaces modernas e experiências web marcantes. <br>Tenho paixão por tecnologia, design e tudo que envolve criar projetos interativos com código!</p>
 
@@ -59,9 +59,5 @@
   <a href="https://www.linkedin.com/in/henrique-aguiar-269b89233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/santscoder/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
----
-
-✨ Vamos construir algo incrível juntos!
 
 </div>
