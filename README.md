@@ -1,63 +1,34 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=800080&width=600&lines=Olá%2C+me+chamo+Henrique+Aguiar!;Sou+Desenvolvedor+Front-End" alt="Typing SVG" />
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&width=600&lines=Olá%2C+sou+Henrique+Aguiar!;Desenvolvedor+Front-End+React" alt="Typing SVG" />
 
-<div align="center">
+👨‍💻 Sobre Mim
+🎓 Formado em Jogos Digitais pela FIAP
+🚀 Buscando me tornar Front-End React profissional e evoluir para Full Stack
+🎯 Focado em Next.js, TailwindCSS, React e JavaScript avançado
 
-<h2>Bem-vindo ao meu GitHub!</h2>
 
-<p>Sou um <strong>Desenvolvedor Front-End</strong> focado em criar interfaces modernas e experiências web marcantes. <br>Tenho paixão por tecnologia, design e tudo que envolve criar projetos interativos com código!</p>
+🛠️ Tecnologias & Ferramentas
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="NodeJS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" /> </p>
 
----
+🌟 Projetos em Destaque
+🎤 Site Tributo ao 2Pac
+<p align="center"> <a href="https://github.com/Sants-Coder/2pac-tribute-website"> <img src="./tributo-tupac.png" width="300" alt="2Pac Tributo"/> </a><br> <strong>HTML | CSS | JavaScript</strong> </p>
+🎮 Guia Interativo Bully (PS2)
+<p align="center"> <a href="https://github.com/Sants-Coder/guia-bully"> <img src="https://raw.githubusercontent.com/Sants-Coder/guia-bully/main/img/apresentacao/apresentacao1.png" width="300" alt="Guia Bully"/> </a><br> <strong>HTML | CSS | JavaScript</strong> </p>
+💳 Dashboard Bancário
+<p align="center"> <a href="https://github.com/Sants-Coder/dashboard-bancario-pos"> <img src="./desktop-servicos.png" width="300" alt="Dashboard Bancário"/> </a><br> <strong>ReactJS | TailwindCSS | NodeJS</strong> </p>
 
-### 🚀 Tecnologias & Ferramentas
+📈 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sants-Coder&show_icons=true&theme=tokyonight&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sants-Coder&layout=compact&theme=tokyonight" /> </div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-</p>
+💡 Curiosidades
+🎯 Meu objetivo é trabalhar remotamente como Front-End React
 
----
+🎮 Gosto de criar jogos simples em HTML, CSS e JavaScript
 
-### 🌟 Projetos em Destaque
+✨ Sempre busco aprender algo novo todos os dias
 
-####  🎤 Site Tributo ao 2Pac
-<p align="center">
-  <a href="https://github.com/Sants-Coder/2pac-tribute-website">
-    <img src="./tributo-tupac.png" width="300" alt="2Pac Tributo"/>
-  </a><br>
-  <strong>Site Tributo ao 2Pac</strong><br>
-  HTML | CSS | JavaScript
-</p>
 
-#### 🎮✨ Guia Interativo do Jogo Bully (PS2)
-<p align="center">
-  <a href="https://github.com/Sants-Coder/guia-bully">
-     <img src="https://raw.githubusercontent.com/Sants-Coder/guia-bully/main/img/apresentacao/apresentacao1.png" width="300" alt="Guia Bully"/>
-  </a><br>
-  <strong>Site do Bully</strong><br>
-  <em>HTML | CSS | JavaScript</em>
-</p>
-
-#### 💳 Sistema de Serviços Bancários
-<p align="center">
-  <a href="https://github.com/Sants-Coder/dashboard-bancario-pos">
-    <img src="./desktop-servicos.png" width="300" alt="Sistema de Serviços Bancários"/>
-  </a><br>
-  <strong>Dashboard com Serviços Bancários</strong><br>
-  ReactJS | TailwindCSS | NodeJS
-</p>
-
----
-
-### 📫 Contato
-
-<p align="center">
-  <a href="mailto:ha701430@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/henrique-aguiar-269b89233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/santscoder/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+📫 Contato
+<p align="center"> <a href="mailto:ha701430@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/henrique-aguiar-269b89233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/santscoder/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> </p>
 
 </div>
