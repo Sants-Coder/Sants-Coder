@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&width=600&lines=Olá%2C+sou+Henrique+Aguiar!;Desenvolvedor+Front-End+React" alt="Typing SVG" />
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFD&width=600&lines=Olá%2C+sou+Henrique+Aguiar!;Desenvolvedor+Front-End+React" alt="Typing SVG" />
 
 👨‍💻 Sobre Mim
 🎓 Formado em Jogos Digitais pela FIAP
