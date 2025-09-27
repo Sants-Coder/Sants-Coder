@@ -25,6 +25,6 @@
 
 
 📫 Contato
-<p align="center"> <a href="mailto:ha701430@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/henrique-aguiar-269b89233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/santscoder/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> </p>
+<p align="center"> <a href="mailto:ha701430@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/henrique-aguiar-269b89233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a
 
 </div>
