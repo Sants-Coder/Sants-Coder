@@ -16,14 +16,6 @@
 📈 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sants-Coder&show_icons=true&theme=tokyonight&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sants-Coder&layout=compact&theme=tokyonight" /> </div>
 
-💡 Curiosidades
-🎯 Meu objetivo é trabalhar remotamente como Front-End React
-
-🎮 Gosto de criar jogos simples em HTML, CSS e JavaScript
-
-✨ Sempre busco aprender algo novo todos os dias
-
-
 📫 Contato
 <p align="center"> <a href="mailto:ha701430@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/henrique-aguiar-269b89233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a
 
