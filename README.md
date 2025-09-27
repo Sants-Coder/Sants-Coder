@@ -12,10 +12,6 @@
 🌟 Projetos em Destaque
 🎤 Site Tributo ao 2Pac
 <p align="center"> <a href="https://github.com/Sants-Coder/2pac-tribute-website"> <img src="./tributo-tupac.png" width="300" alt="2Pac Tributo"/> </a><br> <strong>HTML | CSS | JavaScript</strong> </p>
-🎮 Guia Interativo Bully (PS2)
-<p align="center"> <a href="https://github.com/Sants-Coder/guia-bully"> <img src="https://raw.githubusercontent.com/Sants-Coder/guia-bully/main/img/apresentacao/apresentacao1.png" width="300" alt="Guia Bully"/> </a><br> <strong>HTML | CSS | JavaScript</strong> </p>
-💳 Dashboard Bancário
-<p align="center"> <a href="https://github.com/Sants-Coder/dashboard-bancario-pos"> <img src="./desktop-servicos.png" width="300" alt="Dashboard Bancário"/> </a><br> <strong>ReactJS | TailwindCSS | NodeJS</strong> </p>
 
 📈 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sants-Coder&show_icons=true&theme=tokyonight&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sants-Coder&layout=compact&theme=tokyonight" /> </div>
