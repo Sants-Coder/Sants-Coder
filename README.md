@@ -9,7 +9,7 @@
 🛠️ Tecnologias & Ferramentas
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="NodeJS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" /> </p>
 
-🌟 Projetos em Destaque
+🌟 Projeto em Destaque
 🎤 Site Tributo ao 2Pac
 <p align="center"> <a href="https://github.com/Sants-Coder/2pac-tribute-website"> <img src="./tributo-tupac.png" width="300" alt="2Pac Tributo"/> </a><br> <strong>HTML | CSS | JavaScript</strong> </p>
 
