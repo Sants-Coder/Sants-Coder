@@ -1,22 +1,44 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFD&width=600&lines=Olá%2C+sou+Henrique+Aguiar!;Desenvolvedor+Front-End+React" alt="Typing SVG" />
+# 👋 Olá, eu sou Henrique Aguiar
 
-👨‍💻 Sobre Mim
-🎓 Formado em Jogos Digitais pela FIAP
-🚀 Buscando me tornar Front-End React profissional e evoluir para Full Stack
-🎯 Focado em Next.js, TailwindCSS, React e JavaScript avançado
+### 👨‍💻 Sobre Mim
+- 🎓 Formado em **Jogos Digitais** pela FIAP  
+- 🚀 Buscando me tornar **Front-End React profissional** e evoluir para **Full Stack**  
+- 🎯 Focado em **Next.js, TailwindCSS, React e JavaScript avançado**  
 
+---
 
-🛠️ Tecnologias & Ferramentas
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="NodeJS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" /> </p>
-
-🌟 Projeto em Destaque
-🎤 Site Tributo ao 2Pac
-<p align="center"> <a href="https://github.com/Sants-Coder/2pac-tribute-website"> <img src="./tributo-tupac.png" width="300" alt="2Pac Tributo"/> </a><br> <strong>HTML | CSS | JavaScript</strong> </p>
-
-📈 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sants-Coder&show_icons=true&theme=tokyonight&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sants-Coder&layout=compact&theme=tokyonight" /> </div>
-
-📫 Contato
-<p align="center"> <a href="mailto:ha701430@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/henrique-aguiar-269b89233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a
-
+### 🛠️ Tecnologias & Ferramentas
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
+
+---
+
+### 🌟 Projeto em Destaque
+📌 **Tributo ao 2Pac**  
+[🔗 Acesse aqui](https://github.com/Sants-Coder/2pac-tribute-website)  
+
+<p align="center">
+  <img src="./tributo-tupac.png" width="320" alt="2Pac Tributo"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sants-Coder&show_icons=true&theme=default&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sants-Coder&layout=compact&theme=default" />
+</div>
+
+---
+
+### 📫 Contato
+- 📧 **Email**: [ha701430@gmail.com](mailto:ha701430@gmail.com)  
+- 💼 **LinkedIn**: [Henrique Aguiar](https://www.linkedin.com/in/henrique-aguiar-269b89233)  
+
