@@ -1,7 +1,7 @@
 <h1 align="center">Henrique Aguiar</h1>
 
 <p align="center">
-  <em>Front-end Developer — explorando a fusão entre design e código.</em>
+  <em>Front-end Developer — exploring the fusion between design and code..</em>
 </p>
 
 ---
@@ -25,5 +25,5 @@
 ---
 
 <p align="center">
-  <sub>“Código é arte invisível.”</sub>
+  <sub>“Code is invisible art.”</sub>
 </p>
