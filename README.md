@@ -1,11 +1,11 @@
-<h1 align="center">Henrique Aguiar</h1>
-
+# 💠 Henrique Aguiar
 <p align="center">
-  <em>Front-end Developer — exploring the fusion between design and code..</em>
+  <em>Front-end Developer — transformando lógica, estética e propósito em código.</em>
 </p>
 
 ---
 
+## ✦ Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
@@ -17,6 +17,7 @@
 
 ---
 
+## ✦ Stats
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sants-Coder&show_icons=false&hide_title=true&hide_rank=true&hide=prs,issues&theme=github_dark_dimmed&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sants-Coder&layout=compact&theme=github_dark_dimmed&hide_title=true" />
@@ -24,6 +25,7 @@
 
 ---
 
+## ✦ About Me
 <p align="center">
   <sub>“Code is invisible art.”</sub>
 </p>
