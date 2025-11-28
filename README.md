@@ -64,17 +64,20 @@ Gosto de design, interfaces equilibradas e tudo que envolve a fusão entre **art
       </td>
       <td width="45%">
         <h4>Why Not?</h4>
-        <p>Um site que não é só um site — É uma experiência. Um lugar criado pra te lembrar daquilo que você esqueceu no meio do caminho: Suas forças, seus ídolos, suas histórias, seus motivos. Transformei motivação em interface. Transformei estética em propósito. Transformei meu aprendizado em algo que realmente importa. Minha intenção com esse projeto é mostrar que Front-End é mais do que código. É sensação. É narrativa. É impacto. Quis criar algo que fizesse a pessoa sentir. E eu senti construindo isso. “Why Not?” é meu projeto feito com propósito, conceito e uma boa dose de autenticidade.</p>
+        <p>"Um site que não é só um site — É uma experiência. Um lugar criado pra te lembrar daquilo que você esqueceu no meio do caminho: Suas forças, seus ídolos, suas histórias, seus motivos. Transformei motivação em interface. Transformei estética em propósito. Transformei meu aprendizado em algo que realmente importa. Minha intenção com esse projeto é mostrar que Front-End é mais do que código. É sensação. É narrativa. É impacto. Quis criar algo que fizesse a pessoa sentir. E eu senti construindo isso. “Why Not?” é meu projeto feito com propósito, conceito e uma boa dose de autenticidade."</p>
       </td>
     </tr>
     <tr>
       <td width="45%">
         <h4>Tributo ao 2Pac</h4>
-        <p>Site dedicado à vida e legado de Tupac Shakur (2Pac), um dos maiores ícones da música e da cultura. O site apresenta uma visão completa de sua carreira, discografia, letras de músicas, e impacto social, buscando homenagear sua arte e sua contribuição para a música e a sociedade."</p>
+        <p>"Site dedicado à vida e legado de Tupac Shakur (2Pac), um dos maiores ícones da música e da cultura. O site apresenta uma visão completa de sua carreira, discografia, letras de músicas, e impacto social, buscando homenagear sua arte e sua contribuição para a música e a sociedade."</p>
+      </td>
+      <td width="45%">
+        <h4>Tributo ao 2Pac</h4>
+        <p>"Portifólio onde armazeno minhas informações, todos meus projetos e links de contatos"</p>
       </td>
     </tr>
   </table>
-
 </div>
 
 ---
