@@ -4,7 +4,7 @@
   <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/banner-santscoder.png" alt="banner" />
 </p>
 
-<h1 align="center">Olá, eu sou o Henrique 👾</h1>
+<h1 align="center">Olá, eu sou o Henrique</h1>
 <p align="center"><em>Front-end Developer — estética, lógica e propósito.</em></p>
 
 ---
@@ -12,7 +12,7 @@
 ## ✦ Quem Sou Eu?
 <p align="center">
   <!-- ILUSTRAÇÃO OPCIONAL -->
-  <img src="" height="120" />
+  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/gif-santscoder.gif" height="120" />
 </p>
 
 Sou desenvolvedor **Front-end** apaixonado por criar experiências visuais que transmitam estilo e propósito. Curioso por natureza, busco sempre entender a raiz das ideias e transformar conceitos em interfaces limpas, estéticas e funcionais.
