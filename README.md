@@ -33,7 +33,7 @@ Transformo ruído em interface, instabilidade em propósito e cada bug em pista 
 
 ## ✦ GitHub Status // <code style="color:#b30000;">404.activity</code>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sants-Coder&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sants-Coder&hide_border=true&ring=990000&fire=990000&currStreakNum=990000&sideNums=990000&currStreakLabel=990000&sideLabels=990000&dates=990000&background=00000000" height="160" />
 </p>
 
 > <code style="color:#b30000;">status: unstable</code>
@@ -81,4 +81,5 @@ Transformo ruído em interface, instabilidade em propósito e cada bug em pista 
 ---
 
 <p align="center"><sub><code style="color:#b30000;">“Code is invisible art.”</code></sub></p>
+
 
