@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <!-- COLOQUE SUA IMAGEM DE BANNER AQUI -->
-  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/banner-henrique.png" alt="banner" />
+  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/banner-santscoder.png" alt="banner" />
 </p>
 
 <h1 align="center">Olá, eu sou o Henrique 👾</h1>
