@@ -13,9 +13,9 @@
   <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/gif-santscoder.gif" height="120" />
 </p>
 
-Sou desenvolvedor **Front-end**. Aqui eu não maquio nada: erro é sinal, bug é pista.
+Sou desenvolvedor **Front-end**. Não escondo erros — eu os uso como direção.
 
-Busco transformar o caos das ideias em interfaces limpas, com propósito e estética — mas sem filtros.
+Transformo ruído em interface, instabilidade em propósito e cada bug em pista para algo mais limpo, mais coeso e mais verdadeiro.
 
 ---
 
@@ -81,3 +81,4 @@ Busco transformar o caos das ideias em interfaces limpas, com propósito e esté
 ---
 
 <p align="center"><sub><code style="color:#b30000;">“Code is invisible art.”</code></sub></p>
+
