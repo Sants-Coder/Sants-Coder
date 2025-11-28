@@ -15,9 +15,9 @@
   <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/gif-santscoder.gif" height="120" />
 </p>
 
-Sou desenvolvedor **Front-end** apaixonado por criar experiências visuais que transmitam estilo e propósito. Curioso por natureza, busco sempre entender a raiz das ideias e transformar conceitos em interfaces limpas, estéticas e funcionais.
+Sou desenvolvedor **Front-end** apaixonado por criar experiências visuais que transmitam estilo e propósito. Busco sempre entender a raiz das ideias e transformar conceitos em interfaces limpas, estéticas e funcionais.
 
-Gosto de design minimalista, interfaces equilibradas e tudo que envolve a fusão entre **arte + tecnologia**.
+Gosto de design, interfaces equilibradas e tudo que envolve a fusão entre **arte + tecnologia**.
 
 ---
 
