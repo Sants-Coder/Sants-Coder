@@ -24,14 +24,12 @@ Gosto de design, interfaces equilibradas e tudo que envolve a fusão entre **art
 ## ✦ Um Pouco Mais Sobre Mim
 - Foco em manter um código limpo e visual coerente.  
 - Aprecio estética, clareza e organização.  
-- Busco sempre propósito no que construo.  
-- Minimalismo inspira minha visão e meu design.  
+- Busco sempre propósito no que construo.
 
 <p align="center">
   <!-- ICONES DE REDES SOCIAIS -->
-  <img src="" height="30" />
-  <img src="" height="30" />
-  <img src="" height="30" />
+  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/github-icon.png" height="30" />
+  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/linkedin-icon.png" height="30" />
 </p>
 
 ---
@@ -61,22 +59,18 @@ Gosto de design, interfaces equilibradas e tudo que envolve a fusão entre **art
   <table>
     <tr>
       <td width="45%">
-        <h4>📦 Projeto 1</h4>
-        <p>Descrição breve do projeto aqui...</p>
+        <h4>Guia de Bully</h4>
+        <p>"Desenvolvi um site inspirado em Bully, clássico da Rockstar Games que marcou gerações com sua abordagem única sobre a vida escolar. O site mergulha no universo de Bullworth Academy, explorando os personagens, enredos, facções, missões e toda a atmosfera que tornou o jogo tão envolvente. A proposta é oferecer aos fãs uma imersão nostálgica e aprofundada, celebrando o impacto duradouro de Bully no mundo dos games."</p>
       </td>
       <td width="45%">
-        <h4>📦 Projeto 2</h4>
-        <p>Descrição breve do projeto aqui...</p>
+        <h4>Why Not?</h4>
+        <p>Um site que não é só um site — É uma experiência. Um lugar criado pra te lembrar daquilo que você esqueceu no meio do caminho: Suas forças, seus ídolos, suas histórias, seus motivos. Transformei motivação em interface. Transformei estética em propósito. Transformei meu aprendizado em algo que realmente importa. Minha intenção com esse projeto é mostrar que Front-End é mais do que código. É sensação. É narrativa. É impacto. Quis criar algo que fizesse a pessoa sentir. E eu senti construindo isso. “Why Not?” é meu projeto feito com propósito, conceito e uma boa dose de autenticidade.</p>
       </td>
     </tr>
     <tr>
       <td width="45%">
-        <h4>📦 Projeto 3</h4>
-        <p>Descrição breve do projeto aqui...</p>
-      </td>
-      <td width="45%">
-        <h4>📦 Projeto 4</h4>
-        <p>Descrição breve do projeto aqui...</p>
+        <h4>Tributo ao 2Pac</h4>
+        <p>Site dedicado à vida e legado de Tupac Shakur (2Pac), um dos maiores ícones da música e da cultura. O site apresenta uma visão completa de sua carreira, discografia, letras de músicas, e impacto social, buscando homenagear sua arte e sua contribuição para a música e a sociedade."</p>
       </td>
     </tr>
   </table>
