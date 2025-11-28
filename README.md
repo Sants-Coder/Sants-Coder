@@ -31,7 +31,7 @@ Gosto de design, interfaces equilibradas e tudo que envolve a fusão entre **art
 
 ---
 
-## ✦ GitHub Status <code style="color:#b30000; font-size:12px;">// activity.log</code>
+## ✦ <span style="color:#b30000;">GitHub Status</span> <code style="color:#b30000; font-size:12px;">// activity.log</code></code>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sants-Coder&theme=transparent&hide_border=true" height="160" />
 </p>
@@ -73,3 +73,9 @@ Gosto de design, interfaces equilibradas e tudo que envolve a fusão entre **art
         <p>Portfólio onde armazeno minhas informações, projetos e links de contato — minha versão digital, constantemente atualizada.</p>
       </td>
     </tr>
+  </table>
+</div>
+
+---
+
+<p align="center"><sub><code style="color:#b30000;">“Code is invisible art.”</code></sub></p>
