@@ -25,15 +25,16 @@ Transformo ruído em interface, instabilidade em propósito e cada bug em pista 
 - Busco sempre propósito no que construo.
 
 <p align="center">
-  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/github-icon.png" height="30" />
-  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/linkedin-icon.png" height="30" />
+  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/github-logo.png" height="30" />
+  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/linkedin-logo.png" height="30" />
 </p>
 
 ---
 
 ## ✦ GitHub Status // <code style="color:#b30000;">404.activity</code>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sants-Coder&hide_border=true&ring=990000&fire=990000&currStreakNum=990000&sideNums=990000&currStreakLabel=990000&sideLabels=990000&dates=990000&background=00000000" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sants-Coder&theme=dark&hide_border=true&ring=990000&fire=990000&currStreakNum=990000&sideNums=990000&currStreakLabel=990000&sideLabels=990000&dates=990000
+" height="160" />
 </p>
 
 > <code style="color:#b30000;">status: unstable</code>
