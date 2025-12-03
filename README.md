@@ -27,6 +27,7 @@ Transformo ruído em interface, instabilidade em propósito e cada bug em pista 
 <p align="center">
   <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/github-logo.png" height="30" />
   <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/linkedin-logo.png" height="30" />
+  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/youtube-logo.png" height="30" />
 </p>
 
 ---
