@@ -9,9 +9,6 @@
 ---
 
 ## ✦ Quem Sou Eu? // <code style="color:#b30000;">raw404</code>
-<p align="center">
-  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/gif-santscoder.gif" height="120" />
-</p>
 
 Sou desenvolvedor **Front-end**. Não escondo erros — eu os uso como direção.
 
