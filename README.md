@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/Sants-Coder-banner.png" alt="banner" />
+  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/Captura%20de%20tela%202026-01-28%20105538.png" alt="banner" />
 </p>
 
 <h1 align="center">404 — SantsCoder</h1>
