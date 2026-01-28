@@ -64,14 +64,6 @@ Repositório vivo com meus projetos, processos e evolução técnica.
 
 ---
 
-## Activity
-
-<p align="center">
-  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/banner%20fundo.png" height="150" />
-</p>
-
----
-
 <p align="center">
   <sub>Code is invisible until it feels right.</sub>
 </p>
