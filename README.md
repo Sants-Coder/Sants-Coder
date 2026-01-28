@@ -67,7 +67,7 @@ Repositório vivo com meus projetos, processos e evolução técnica.
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sants-Coder&theme=highcontrast&hide_border=true" height="150" />
+  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/banner%20fundo.png" height="150" />
 </p>
 
 ---
