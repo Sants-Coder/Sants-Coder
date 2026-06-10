@@ -17,7 +17,7 @@ Desenvolvedor Front-End com foco na criação de interfaces modernas, responsiva
 
 Atualmente trabalho principalmente com React, Next.js e React Native, aplicando boas práticas de componentização, organização de código e experiência do usuário.
 
-Formado em Jogos Digitais pela FIAP e cursando pós-graduação em Front-End Engineering.
+Graduado em Jogos Digitais e pós-graduado em Front-End Engineering pela FIAP.
 
 ---
 
