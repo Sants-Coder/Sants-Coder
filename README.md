@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/Captura%20de%20tela%202026-01-28%20105538.png" alt="SantsCoder Banner" />
+  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/banner.png" alt="SantsCoder Banner" />
 </p>
 
 <h1 align="center">SantsCoder</h1>
