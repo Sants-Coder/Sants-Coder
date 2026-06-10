@@ -4,49 +4,35 @@
 </p>
 
 <h1 align="center">SantsCoder</h1>
+
 <p align="center">
-  <em>Front-End Developer</em>
+  Front-End Developer
 </p>
 
 ---
 
 ## About
 
-Desenvolvedor Front-End focado em criar interfaces modernas, responsivas e funcionais.
+Desenvolvedor Front-End com foco na criação de interfaces modernas, responsivas e intuitivas.
 
-Trabalho principalmente com React, Next.js e React Native, aplicando boas práticas de componentização, organização de código e experiência do usuário.
+Atualmente trabalho principalmente com React, Next.js e React Native, aplicando boas práticas de componentização, organização de código e experiência do usuário.
 
-Tenho formação em Jogos Digitais pela FIAP e atualmente curso pós-graduação em Front-End Engineering.
-
----
-
-## Stack
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- React Native
-- Firebase
-- Git
+Formado em Jogos Digitais pela FIAP e cursando pós-graduação em Front-End Engineering.
 
 ---
 
-## Links
+## Tech Stack
 
-**Portfolio**  
-https://portifolio-henrique.vercel.app/
+```txt
+HTML • CSS • JavaScript • TypeScript
 
-**LinkedIn**  
-https://www.linkedin.com/in/henrique-aguiar-269b89233/
+React • Next.js • React Native
 
-**GitHub**  
-https://github.com/Sants-Coder
+Firebase • Git • GitHub • Vercel
+````
 
 ---
 
 <p align="center">
-  <sub>Building interfaces with clarity, purpose and consistency.</sub>
+  <sub>Building modern interfaces through design and code.</sub>
 </p>
