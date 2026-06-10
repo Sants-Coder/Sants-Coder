@@ -4,67 +4,49 @@
 </p>
 
 <h1 align="center">SantsCoder</h1>
-<p align="center"><em>Frontend Developer</em></p>
-
----
-
-<!-- VIDEO / GIF -->
 <p align="center">
-  <img src="https://github.com/Sants-Coder/Sants-Coder/blob/main/download.gif" alt="Featured Project Preview" />
+  <em>Front-End Developer</em>
 </p>
 
 ---
 
 ## About
 
-Sou desenvolvedor **Front-End**, focado em construir interfaces claras, funcionais e visualmente coerentes.
+Desenvolvedor Front-End focado em criar interfaces modernas, responsivas e funcionais.
 
-Acredito que código não é apenas solução técnica — é **comunicação**, **organização de pensamento** e **experiência**.  
-Meu processo parte do entendimento visual, passa pela estrutura e termina na execução limpa.
+Trabalho principalmente com React, Next.js e React Native, aplicando boas práticas de componentização, organização de código e experiência do usuário.
 
-Busco sempre equilíbrio entre estética, usabilidade e propósito.
-
----
-
-## Focus
-
-- Interfaces minimalistas e bem estruturadas  
-- Atenção a detalhes visuais e consistência  
-- Código legível, organizado e escalável  
-- Experiência do usuário como prioridade  
+Tenho formação em Jogos Digitais pela FIAP e atualmente curso pós-graduação em Front-End Engineering.
 
 ---
 
 ## Stack
 
-- HTML  
-- CSS  
-- JavaScript  
-- TypeScript  
-- React  
-- Git  
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- React Native
+- Firebase
+- Git
 
 ---
 
-## Selected Projects
+## Links
 
-**Guia de Bully**  
-Projeto inspirado no jogo *Bully* (Rockstar Games), focado em imersão visual e narrativa.  
-Explora interface como meio de contar história.
+**Portfolio**  
+https://portifolio-henrique.vercel.app/
 
-**Why Not?**  
-Aplicação com foco em design emocional, identidade visual e experiência.  
-Front-End como expressão, não apenas layout.
+**LinkedIn**  
+https://www.linkedin.com/in/henrique-aguiar-269b89233/
 
-**Tributo ao 2Pac**  
-Experiência digital que une cultura, conteúdo e estética em uma interface interativa.
-
-**Portfólio**  
-Repositório vivo com meus projetos, processos e evolução técnica.
+**GitHub**  
+https://github.com/Sants-Coder
 
 ---
 
 <p align="center">
-  <sub>Code is invisible until it feels right.</sub>
+  <sub>Building interfaces with clarity, purpose and consistency.</sub>
 </p>
-
